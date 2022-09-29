@@ -1,0 +1,15 @@
+C:\C#\5Seminar\Task32\bin\Debug\net6.0\Task32.exe
+C:\C#\5Seminar\Task32\bin\Debug\net6.0\Task32.deps.json
+C:\C#\5Seminar\Task32\bin\Debug\net6.0\Task32.runtimeconfig.json
+C:\C#\5Seminar\Task32\bin\Debug\net6.0\Task32.dll
+C:\C#\5Seminar\Task32\bin\Debug\net6.0\Task32.pdb
+C:\C#\5Seminar\Task32\obj\Debug\net6.0\Task32.csproj.AssemblyReference.cache
+C:\C#\5Seminar\Task32\obj\Debug\net6.0\Task32.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\5Seminar\Task32\obj\Debug\net6.0\Task32.AssemblyInfoInputs.cache
+C:\C#\5Seminar\Task32\obj\Debug\net6.0\Task32.AssemblyInfo.cs
+C:\C#\5Seminar\Task32\obj\Debug\net6.0\Task32.csproj.CoreCompileInputs.cache
+C:\C#\5Seminar\Task32\obj\Debug\net6.0\Task32.dll
+C:\C#\5Seminar\Task32\obj\Debug\net6.0\refint\Task32.dll
+C:\C#\5Seminar\Task32\obj\Debug\net6.0\Task32.pdb
+C:\C#\5Seminar\Task32\obj\Debug\net6.0\Task32.genruntimeconfig.cache
+C:\C#\5Seminar\Task32\obj\Debug\net6.0\ref\Task32.dll
